@@ -21,8 +21,8 @@ body {
 #sidebar {
   /* background-color: rgba(200,60,60); */
   /* background-color: #d20000; */
-  background-color: orange;
-  /* background-color: black; */
+  /* background-color: orange; */
+  background-color: black;
   min-width: 300px;
 }
 
